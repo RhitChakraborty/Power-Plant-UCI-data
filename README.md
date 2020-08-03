@@ -16,4 +16,4 @@ Features consist of hourly average ambient variables
 
 
 Models for prediction:
-SVR,XGBRegressor,Tensorflow
+SVR,XGBRegressor and Tensorflow
